@@ -1,4 +1,3 @@
-# CODSOFT_TASK_3
 # README: Iris Flower Classification
 
 ## Author: Akshat Kumar Sharma
